@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ca.bigbluebox.qalipu.QalipuSecurityConfiguration,\
+ca.bigbluebox.qalipu.I18NConfiguration

@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+keycloak:
+  auth-server-url: http://localhost:8080/auth
+  realm: dev
+  public-client: true
+  resource: qalipu-demo
+  principal-attribute: preferred_username

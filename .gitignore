@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+qalipu-core/build
+qalipu-core/out
+qalipu-demo/build
+qalipu-demo/out
+*.iml
