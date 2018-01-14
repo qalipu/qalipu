@@ -1,7 +1,7 @@
 # Qalipu
 Business application development.
 
-##What?
+## What?
 Qalipu makes development of business application easier using the following technologies:
 * [Spring Boot](https://projects.spring.io/spring-boot/)
 * [Vaadin Framework](https://vaadin.com/framework)
